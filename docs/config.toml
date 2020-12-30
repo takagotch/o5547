@@ -2,7 +2,7 @@
 
 # ##################################################
 # Hugo-defined variables
-baseURL       = "https://example.com"
+baseURL       = "https://takagotch.github.io/page451/"
 
 title         = "hugo-theme-w3css-basic exampleSite"
 theme         = "hugo-theme-w3css-basic"
